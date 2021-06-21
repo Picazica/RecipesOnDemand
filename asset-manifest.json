@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RecipesOnDemand/static/css/main.873e2d61.chunk.css",
+    "main.js": "/RecipesOnDemand/static/js/main.2f102d5d.chunk.js",
+    "main.js.map": "/RecipesOnDemand/static/js/main.2f102d5d.chunk.js.map",
+    "runtime-main.js": "/RecipesOnDemand/static/js/runtime-main.2e74220c.js",
+    "runtime-main.js.map": "/RecipesOnDemand/static/js/runtime-main.2e74220c.js.map",
+    "static/js/2.e905b3a4.chunk.js": "/RecipesOnDemand/static/js/2.e905b3a4.chunk.js",
+    "static/js/2.e905b3a4.chunk.js.map": "/RecipesOnDemand/static/js/2.e905b3a4.chunk.js.map",
+    "static/js/3.4ed4fe82.chunk.js": "/RecipesOnDemand/static/js/3.4ed4fe82.chunk.js",
+    "static/js/3.4ed4fe82.chunk.js.map": "/RecipesOnDemand/static/js/3.4ed4fe82.chunk.js.map",
+    "index.html": "/RecipesOnDemand/index.html",
+    "static/css/main.873e2d61.chunk.css.map": "/RecipesOnDemand/static/css/main.873e2d61.chunk.css.map",
+    "static/js/2.e905b3a4.chunk.js.LICENSE.txt": "/RecipesOnDemand/static/js/2.e905b3a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e74220c.js",
+    "static/js/2.e905b3a4.chunk.js",
+    "static/css/main.873e2d61.chunk.css",
+    "static/js/main.2f102d5d.chunk.js"
+  ]
+}
